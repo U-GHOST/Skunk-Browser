@@ -1,5 +1,5 @@
 # Skunk-Browser
-* A simple browser, based on Chromium, made with python -- Skunk Browser.
+* A simple browser, based on Chromium, made with Python -- Skunk Browser.
 ---
 ## Introduction
 * Skunk is a simple browser made to watch some 'David Dobrik' YouTube videos and eat all your RAM (like bowser lol).
