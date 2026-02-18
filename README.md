@@ -2,7 +2,7 @@
 * A simple browser, based on Chromium, made with Python -- Skunk Browser.
 ---
 ## Introduction
-* Skunk is a simple browser made to watch some 'David Dobrik' YouTube videos and eat all your RAM (like bowser lol).
+* Skunk is a simple browser made to watch some YouTube videos 🤷‍♂️.
 ---
 ## Requirements
 * This version of Skunk Browser uses Python 3.11.9.
